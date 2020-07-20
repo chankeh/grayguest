@@ -13,11 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![XiaoMeng's github stats](https://github-readme-stats.vercel.app/api?username=grayguest&show_icons=true)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=grayguest&repo=XiaoPoAlgo&show_owner=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=grayguest&show_icons=true" />
-</a>
+
+![XiaoMeng's github stats](https://github-readme-stats.vercel.app/api?username=grayguest&show_icons=true)
