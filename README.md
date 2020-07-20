@@ -24,5 +24,5 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=radical" />
 </a>
 
-[![XiaoMeng's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=grayguest&&theme=radical)](https://github.com/grayguest/grayguest)
+![XiaoMeng's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=grayguest&&theme=radical)
 
