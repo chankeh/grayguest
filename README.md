@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/grayguest/XiaoPoAlgo">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=XiaoPoAlgo&show_owner=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=grayguest&repo=XiaoPoAlgo&show_owner=true" />
 </a>
 
 <a href="https://github.com/grayguest/XiaoPoAlgo">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=XiaoPoAlgo&show_owner=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=grayguest&repo=XiaoPoAlgo&show_owner=true" />
 </a>
 
 <br />
@@ -27,12 +27,12 @@ Here are some ideas to get you started:
 <br />
 
 <a href="https://github.com/grayguest/XiaoPoAlgo">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=XiaoPoAlgo&show_owner=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=grayguest&repo=XiaoPoAlgo&show_owner=true" />
 </a>
 
 <a href="https://github.com/grayguest/XiaoPoAlgo">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=XiaoPoAlgo&show_owner=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=grayguest&repo=XiaoPoAlgo&show_owner=true" />
 </a>
 
-![XiaoMeng's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=grayguest&&theme=radical)
+![XiaoMeng's github stats](https://github-readme-stats.vercel.app/api?username=grayguest&show_icons=true&line_height=20&hide_rank=true&hide_title=true&hide_border=true)
 
