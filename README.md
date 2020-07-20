@@ -17,4 +17,4 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=grayguest&repo=XiaoPoAlgo&show_owner=true" />
 </a>
 
-![XiaoMeng's github stats](https://github-readme-stats.vercel.app/api?username=grayguest&show_icons=true&line_height=15)
+![XiaoMeng's github stats](https://github-readme-stats.vercel.app/api?username=grayguest&show_icons=true&line_height=13)
