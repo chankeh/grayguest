@@ -16,22 +16,22 @@ Here are some ideas to get you started:
 ![XiaoMeng's github stats](https://github-readme-stats.vercel.app/api?username=grayguest&show_icons=true&line_height=20&hide_rank=true&hide_title=true)
 
 <a href="https://github.com/grayguest/XiaoPoAlgo">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=grayguest&repo=XiaoPoAlgo&theme=default" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=grayguest&repo=XiaoPoAlgo&theme=radical" />
 </a>
 
 <a href="https://github.com/grayguest/Jiasaws">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=grayguest&repo=Jiasaws&theme=default" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=grayguest&repo=Jiasaws&theme=radical" />
 </a>
 
 <br></br><br/><br />
 
 
 <a href="https://github.com/grayguest/OnlineTest">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=grayguest&repo=OnlineTest&theme=default" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=grayguest&repo=OnlineTest&theme=radical" />
 </a>
 
 <a href="https://github.com/grayguest/ReadingNotes">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=grayguest&repo=ReadingNotes&theme=default" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=grayguest&repo=ReadingNotes&theme=radical" />
 </a>
 
 <a href="https://github.com/grayguest/security_checklist">
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/grayguest/XiaoPoAlgo">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=grayguest&show_icons=true&line_height=20&hide_rank=true&hide_title=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=grayguest&show_icons=true&line_height=20&hide_rank=true&hide_title=true&theme=radical" />
 </a>
 
 
