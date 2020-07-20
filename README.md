@@ -38,4 +38,8 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=grayguest&repo=security_checklist&theme=default" />
 </a>
 
+<a href="https://github.com/grayguest/XiaoPoAlgo">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=grayguest&show_icons=true&line_height=20&hide_rank=true&hide_title=true" />
+</a>
+
 
