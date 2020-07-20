@@ -13,39 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<a href="https://github.com/grayguest/XiaoPoAlgo">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=grayguest&repo=XiaoPoAlgo&show_owner=true" />
-</a>
-
-<a href="https://github.com/grayguest/XiaoPoAlgo">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=grayguest&repo=XiaoPoAlgo&show_owner=true" />
-</a>
-
-<br>
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-
-
-<br>
-
-<br> 
-
-
-
-<a href="https://github.com/grayguest/XiaoPoAlgo">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=grayguest&repo=XiaoPoAlgo&show_owner=true" />
-</a>
-
-<a href="https://github.com/grayguest/XiaoPoAlgo">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=grayguest&repo=XiaoPoAlgo&show_owner=true" />
-</a>
-
 ![XiaoMeng's github stats](https://github-readme-stats.vercel.app/api?username=grayguest&show_icons=true&line_height=20&hide_rank=true&hide_title=true&hide_border=true)
 
