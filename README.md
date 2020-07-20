@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![XiaoMeng's github stats](https://github-readme-stats.vercel.app/api?username=grayguest&show_icons=true&line_height=20&hide_rank=true&hide_title=true)
+
 <a href="https://github.com/grayguest/XiaoPoAlgo">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=grayguest&repo=XiaoPoAlgo&theme=default" />
 </a>
@@ -21,7 +23,7 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=grayguest&repo=Jiasaws&theme=default" />
 </a>
 
-<br></br>
+<br></br><br/><br />
 
 
 <a href="https://github.com/grayguest/OnlineTest">
@@ -36,5 +38,4 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=grayguest&repo=security_checklist&theme=default" />
 </a>
 
-![XiaoMeng's github stats](https://github-readme-stats.vercel.app/api?username=grayguest&show_icons=true&line_height=20&hide_rank=true&hide_title=true)
 
