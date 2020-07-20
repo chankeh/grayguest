@@ -14,19 +14,24 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=radical" />
+<a href="https://github.com/grayguest/XiaoPoAlgo">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=XiaoPoAlgo&show_owner=true" />
 </a>
 
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=radical" />
+<a href="https://github.com/grayguest/XiaoPoAlgo">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=XiaoPoAlgo&show_owner=true" />
 </a>
 
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=radical" />
+<br />
+
+<br />
+
+<a href="https://github.com/grayguest/XiaoPoAlgo">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=XiaoPoAlgo&show_owner=true" />
+</a>
+
+<a href="https://github.com/grayguest/XiaoPoAlgo">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=XiaoPoAlgo&show_owner=true" />
 </a>
 
 ![XiaoMeng's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=grayguest&&theme=radical)
